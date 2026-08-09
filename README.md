@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaindev403" alt="zaindev403" /></a> </p>
 
-- 🔭 I’m currently working on **portfolio website**
-
 - 🌱 I’m currently learning **system design architecture, front end framework**
 
 - 👯 I’m looking to collaborate on **any REST API project**
