@@ -10,9 +10,10 @@
 <br>
 
 # Hello Everyone 👋
+My name is Zain an aspiring Backend Developer. I usually code in ASP.NET, trying go lang at the moment. Let's connect! 
 
 ### 📝 Latest Blog Posts
-- [Creating a Cloudflare R2 Bucket]([https://dev.to/raziq_din_bd0274cc2ac748b/getting-started-with-ollama-from-installation-to-testing-281o](https://dev.to/zaindev403/creating-a-cloudflare-r2-bucket-2g0n))
+- [Creating a Cloudflare R2 Bucket](https://dev.to/zaindev403/creating-a-cloudflare-r2-bucket-2g0n)
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -38,11 +39,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nidqija&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaindev403&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nidqija&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaindev403&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
